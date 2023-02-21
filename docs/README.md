@@ -1,9 +1,9 @@
 # Luxary-92.github.io
 
-## 1 EJEMPO
+## 1_EJEMPO
 
-### 2 EJEMPO
+### 2_EJEMPO
 
-# 3 EJEMPO
+# 3_EJEMPO
 
-4 EJEMPO
+4_EJEMPO
