@@ -16,7 +16,7 @@ But why it important? Because it creates an efficient process for production and
 
 ## Provided Templates
 
-<a  href="https://trello.com/b/63f477560257c7b02d34e165">El proceso productivo del videojuego: fases de producción/Ana Mª Manrubia Pereira
+<a  href="https://trello.com/b/63f477560257c7b02d34e165">Template Trello
 
 
 ## Documentation Links and References
