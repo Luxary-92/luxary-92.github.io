@@ -10,8 +10,9 @@ Let’s start by defining a what it is, production planning is the process in wh
 
 But why it important? Because it creates an efficient process for production and organizational needs, it also helps with potential problems that may occur during production
 
+Knowing this a production plan is the document that describes how production processes will be executed. It describes the human resources and production schedule that will be followed.
 
-## What is the producion plan for videgoames?
+## Creation of Production Plan
 
 
 ## Provided Templates
