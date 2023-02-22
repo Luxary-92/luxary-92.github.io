@@ -16,9 +16,14 @@ Knowing this a production plan is the document that describes how production pro
 
 ## Production Plan for videogames
 
-Now that we have the basis of production planning, how do we apply it to videogames. 
-   
+Now that we have the basis of production planning, how do we apply it to videogames.
+
 To start we need a pitch for a videogame, with the pilar features, a unique soling point and opportunity market data for similar games. And the scope which is the days needed to get a feature to the final design and ready for testing.
+
+The next step detail the staffing plan to assaying the work, it consists of a list of you team members, their discipline, the days they can work and the scope of days needed to complete a task.
+
+The following step is to create a schedule, with the scope and the staff, and put them in order of expected completion, prioritizing the pilar features. Dividing the feature in milestones, in which the team lead takes account how they have progressed according to the schedule, and determine any changes going forward.
+
      
 
 ## Provided Templates
@@ -29,7 +34,7 @@ To start we need a pitch for a videogame, with the pilar features, a unique soli
    
 <a  href="https://github.com/Luxary-92/luxary-92.github.io/blob/main/template/Template_Exel.xlsx">**Template Exel**
    
-![3](https://user-images.githubusercontent.com/79161171/220517015-26a9b4c6-4641-44f0-a70c-565a46077b77.png)
+![3](https://user-images.githubusercontent.com/79161171/220522974-f33bc03d-38ac-4290-b71e-6d82355fdacc.png)
 
 
 ## Documentation Links and References
