@@ -22,6 +22,7 @@ Knowing this a production plan is the document that describes how production pro
 
 <a  href="https://trello.com/b/63f477560257c7b02d34e165">Template Trello
 
+![Sin título](https://user-images.githubusercontent.com/79161171/220513492-452694f4-14b7-4cca-ad12-998d178573ab.png)
 
 ## Documentation Links and References
 
