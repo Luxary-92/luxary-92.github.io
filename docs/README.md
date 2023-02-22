@@ -24,7 +24,7 @@ Knowing this a production plan is the document that describes how production pro
 
 ![Sin título](https://user-images.githubusercontent.com/79161171/220513492-452694f4-14b7-4cca-ad12-998d178573ab.png)
    
-<a  href="https://trello.com/b/63f477560257c7b02d34e165">**Template Exel**
+<a  href="https://github.com/Luxary-92/luxary-92.github.io/blob/main/template/Template_Exel.xlsx">**Template Exel**
    
 ![3](https://user-images.githubusercontent.com/79161171/220517015-26a9b4c6-4641-44f0-a70c-565a46077b77.png)
 
