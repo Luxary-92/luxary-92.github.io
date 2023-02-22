@@ -25,3 +25,5 @@ Im Enric Arxer and I am an student, studing Design and Development of Videogames
 
 <a  href="https://www.youtube.com/watch?v=ukADFPuscG8">How to Improve the Planning Process in Game Design - Extra Credits
   
+<a  href="https://www.youtube.com/watch?v=a7vZFiFLw-w">How to Plan Your Game Development Project
+  
