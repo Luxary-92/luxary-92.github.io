@@ -3,7 +3,7 @@
 # Producion Plan
 
 ## Member
-I am Enric Arxer, name github: <a  href="https://trello.com/b/63f477560257c7b02d34e165">Luxary-92 
+I am Enric Arxer, name github: <a  href="https://github.com/Luxary-92">Luxary-92!</a>
 Spanish student of CITM,UPC,
 
 ## Problem Description
