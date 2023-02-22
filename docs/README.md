@@ -16,7 +16,10 @@ Knowing this a production plan is the document that describes how production pro
 
 ## Production Plan for videogames
 
-
+Now that we have the basis of production planning, how do we apply it to videogames. 
+   
+To start we need a pitch for a videogame, with the pilar features, a unique soling point and opportunity market data for similar games. And the scope which is the days needed to get a feature to the final design and ready for testing.
+     
 
 ## Provided Templates
 
@@ -24,13 +27,13 @@ Knowing this a production plan is the document that describes how production pro
 
 ![Sin título](https://user-images.githubusercontent.com/79161171/220513492-452694f4-14b7-4cca-ad12-998d178573ab.png)
    
-<a  href="https://trello.com/b/63f477560257c7b02d34e165">**Template Exel**
+<a  href="https://github.com/Luxary-92/luxary-92.github.io/blob/main/template/Template_Exel.xlsx">**Template Exel**
    
 ![3](https://user-images.githubusercontent.com/79161171/220517015-26a9b4c6-4641-44f0-a70c-565a46077b77.png)
 
 
 ## Documentation Links and References
-
+   
 ### Producion plan Definitions  
 <a  href="https://www.netsuite.com/portal/resource/articles/inventory-management/production-planning.shtml#:~:text=Production%20planning%20describes%20in%20detail,in%20production%20and%20their%20dependencies.">What Is Production Planning & Why Is It Important?
    
