@@ -8,7 +8,6 @@ Im Enric Arxer and I am an student, studing Design and Development of Videogames
 
 #### Relevant Links
 
-<a  href="https://revistas.ucm.es/index.php/HICS/article/view/45178">##### El proceso productivo del videojuego: fases de producción/Ana Mª Manrubia Pereira
+<a  href="https://revistas.ucm.es/index.php/HICS/article/view/45178">El proceso productivo del videojuego: fases de producción/Ana Mª Manrubia Pereira
 
-##### What are the Production and Creation Phases of a Video Game?
-https://starloopstudios.com/what-are-the-production-and-creation-phases-of-a-video-game/
+<a  href="[https://revistas.ucm.es/index.php/HICS/article/view/45178](https://starloopstudios.com/what-are-the-production-and-creation-phases-of-a-video-game/)">What are the Production and Creation Phases of a Video Game?
