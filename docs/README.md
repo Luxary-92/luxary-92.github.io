@@ -39,5 +39,7 @@ Knowing this a production plan is the document that describes how production pro
 ### Videos
 
 <a  href="https://www.youtube.com/watch?v=ukADFPuscG8">How to Improve the Planning Process in Game Design - Extra Credits
+   
+<a  href="https://www.youtube.com/watch?v=a7vZFiFLw-w">How to Plan Your Game Development Project
 
   
