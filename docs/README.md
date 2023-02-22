@@ -3,8 +3,7 @@
 # Producion Plan
 
 ## Member
-I am Enric Arxer, name github: <a  href="https://github.com/Luxary-92">Luxary-92!</a>
-Spanish student of CITM,UPC,
+I am Enric Arxer, name github: <a  href="https://github.com/Luxary-92">Luxary-92</a>, a Spanish student of <a  href="https://www.citm.upc.edu/">CITM</a>,[UPC] currently cursing  Design and Development of Videogames.
 
 ## Problem Description
 
