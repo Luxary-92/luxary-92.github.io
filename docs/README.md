@@ -12,6 +12,9 @@ But why it important? Because it creates an efficient process for production and
 
 Knowing this a production plan is the document that describes how production processes will be executed. It describes the human resources and production schedule that will be followed.
 
+![image](https://user-images.githubusercontent.com/79161171/220510834-191a6231-eb59-43da-8b48-23a68805b90d.png)
+
+
 ## Production Plan for videogames
 
 
