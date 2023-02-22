@@ -7,6 +7,7 @@ I am Enric Arxer, Github User:<a  href="https://github.com/Luxary-92">Luxary-92<
 
 ## Bases
 Let’s start by defining a what it is, production planning is the process in which is decided how a product or service will be manufactured before the process begins.
+
 But why it important? Because it creates an efficient process for production and organizational needs, it also helps with potential problems that may occur during production
 
 
