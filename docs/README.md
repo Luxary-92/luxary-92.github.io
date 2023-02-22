@@ -2,8 +2,8 @@
 
 # Producion Plan
 
-## Members
-
+## Member
+I am Enric Arxer, name github: <a  href="https://trello.com/b/63f477560257c7b02d34e165">Luxary-92 ,Spanish student of CITM,UPC, this is a personal research with the objective of explain how to do a good dialog system and how to introduce it into the rpg.
 
 ## Problem Description
 
